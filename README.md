@@ -157,6 +157,7 @@
 [在线文档](https://kilingzhang.github.io/NeteaseCloudMusicApi/)
 <a href="https://kilingzhang.github.io/NeteaseCloudMusicApi/">![docs](https://private-figure-bed.oss-cn-beijing.aliyuncs.com/UTOOLS1587319416337.png)</a>
 
+sudo php-fpm -y /data/wangyiyinyuephp/NeteaseCloudMusicApi/i.music.163.com.fpm.conf
     
 
 ## License
